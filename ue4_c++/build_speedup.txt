@@ -1,9 +1,0 @@
-﻿Boost Compile Times
-افزایش سرعت بیلد انریل اینجین
-
- *   MinFilesUsingPrecompiledHeaderOverride = 1;
- *   bFasterWithoutUnity = true;
- *    
- *    
- *    PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs; 
- *    bEnforceIWYU = true;
